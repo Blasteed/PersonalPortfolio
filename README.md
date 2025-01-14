@@ -1,2 +1,2 @@
 # PersonalPortfolio
-This is my React Application and First try, creating my personal portfolio
+This is my React (preact) Application and First try, creating my personal portfolio
